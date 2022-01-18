@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Taylor Nation",
+    "genre": "Pop",
+    "cover_photo": "https://www.refinery29.com/images/9036488.jpg",
+    "year": 2019,
+    "songs": [
+      {
+        "name": "All Too Well",
+        "photo": "https://static.wikia.nocookie.net/taylor-swift/images/8/80/TaylorSwiftAlbumDeluxe.jpg/revision/latest?cb=20170905221848",
+        "duration": "3:46"
+      },
+      {
+        "name": "Wildest Dreams (Taylor's Version)",
+        "photo": "https://static.wikia.nocookie.net/taylor-swift/images/8/80/TaylorSwiftAlbumDeluxe.jpg/revision/latest?cb=20170905221848",
+        "duration": "3:59"
+      },
+      {
+        "name": "Blank Space",
+        "photo": "https://static.wikia.nocookie.net/taylor-swift/images/8/80/TaylorSwiftAlbumDeluxe.jpg/revision/latest?cb=20170905221848",
+        "duration": "2:45"
+      },
+      {
+        "name": "All Too Well (Taylor's Version)",
+        "photo": "https://static.wikia.nocookie.net/taylor-swift/images/8/80/TaylorSwiftAlbumDeluxe.jpg/revision/latest?cb=20170905221848",
+        "duration": "3:37"
+      },
+      {
+        "name": "Red (Taylor's Version)",
+        "photo": "https://static.wikia.nocookie.net/taylor-swift/images/8/80/TaylorSwiftAlbumDeluxe.jpg/revision/latest?cb=20170905221848",
+        "duration": "3:51"
+      }
+    ]
+  }
+]
